@@ -1,0 +1,9 @@
+* cl-plus-ssl
+
+A Common Lisp interface to OpenSSL / LibreSSL.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/cl-plus-ssl/cl-plus-ssl.git |
+| commit  | 6ca7b42                                            |
+| systems | cl+ssl                                             |
+|---------+----------------------------------------------------|
