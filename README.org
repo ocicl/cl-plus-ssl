@@ -4,6 +4,6 @@ A Common Lisp interface to OpenSSL / LibreSSL.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/cl-plus-ssl/cl-plus-ssl.git |
-| commit  | 13d824e                                            |
+| commit  | 9d5a8a1                                            |
 | systems | cl+ssl                                             |
 |---------+----------------------------------------------------|
